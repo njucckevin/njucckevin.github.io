@@ -40,6 +40,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 
 [**Code**](https://github.com/njucckevin/SeeClick) &nbsp;
 [**Models&Data**](https://huggingface.co/cckevinn/SeeClick) &nbsp;
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1751633110620655851);
 [![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
 
 </div>
@@ -54,6 +55,7 @@ Qianhui Wu\*, **Kanzhi Cheng**\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqi
 [**Code**](https://github.com/microsoft/GUI-Actor) &nbsp;
 [**Project Page**](https://microsoft.github.io/GUI-Actor/) &nbsp;
 [**Models&Data**](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL) &nbsp;
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1930577241244860462);
 [![](https://img.shields.io/github/stars/microsoft/GUI-Actor?style=social&label=Code+Stars)](https://github.com/microsoft/GUI-Actor)
 
 </div>
@@ -68,10 +70,39 @@ Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fan
 [**Code**](https://github.com/OS-Copilot/OS-Genesis) &nbsp;
 [**Project Page**](https://qiushisun.github.io/OS-Genesis-Home/) &nbsp;
 [**Models&Data**](https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d) &nbsp;
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/qiushi_sun/status/1874807124515344599);
 [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis)
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 (Main)</div><img src='images/r3v.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vision-Language Models Can Self-Improve Reasoning via Reflection](https://arxiv.org/abs/2411.00855) \\
+**Kanzhi Cheng**\*, Yantao Li\*, Fangzhi Xu, Jianbing Zhang, Hao Zhou, Yang Liu
+
+[**Code**](https://github.com/njucckevin/MM-Self-Improve) &nbsp;
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1859130826832957857);
+[![](https://img.shields.io/github/stars/njucckevin/MM-Self-Improve?style=social&label=Code+Stars)](https://github.com/njucckevin/MM-Self-Improve)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Findings)</div><img src='images/caparena.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CapArena: Benchmarking and Analyzing Detailed Image Captioning in the LLM Era](https://arxiv.org/abs/2503.12329) \\
+**Kanzhi Cheng**\*, Wenpo Song\*, Jiaxin Fan\*, Zheng Ma, Qiushi Sun, Fangzhi Xu, Chenyang Yan, Nuo Chen, Jianbing Zhang, Jiajun Chen
+
+[**Code**](https://github.com/njucckevin/CapArena) &nbsp;
+[**Project Page**](https://caparena.github.io/) &nbsp;
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1902547937051467956);
+[![](https://img.shields.io/github/stars/njucckevin/CapArena?style=social&label=Code+Stars)](https://github.com/njucckevin/CapArena)
+
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
