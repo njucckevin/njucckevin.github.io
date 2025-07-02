@@ -103,17 +103,26 @@ Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fan
 </div>
 </div>
 
-- `ACMMM 2023` [Beyond Generic: Enhancing Image Captioning with Real-World Knowledge using Vision-Language Pre-Training Model](https://arxiv.org/abs/2308.01126)
+- `ACMMM 2023` [Beyond Generic: Enhancing Image Captioning with Real-World Knowledge using Vision-Language Pre-Training Model](https://arxiv.org/abs/2308.01126) <br>
 **Kanzhi Cheng**, Wenpo Song, Zheng Ma, Wenhao Zhu, Zixuan Zhu, Jianbing Zhang
 
-- `NLPCC 2022` [ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora](https://arxiv.org/abs/2308.01143)
+- `NLPCC 2022` [ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora](https://arxiv.org/abs/2308.01143) <br>
 **Kanzhi Cheng**, Zheng Ma, Shi Zong, Jianbing Zhang, Xinyu Dai, Jiajun Chen
 
 - `WCUA@ICML 2025` [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <br>
 Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, **Kanzhi Cheng**, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
 
+- `ACL 2025 (Main)` [Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning](https://arxiv.org/abs/2504.08672) [![](https://img.shields.io/github/stars/xufangzhi/Genius?style=social&label=Code+Stars)](https://github.com/xufangzhi/Genius) <br>
+Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Qiushi Sun, **Kanzhi Cheng**, Junxian He, Jun Liu, Zhiyong Wu
+
+- `ACL 2025 (Main)` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](http://arxiv.org/abs/2406.11736) [![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS) <br>
+Fangzhi Xu, Qiushi Sun, **Kanzhi Cheng**, Jun Liu, Yu Qiao, Zhiyong Wu
+
 - `ICLR 2025 (Spotlight)` [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas) <br>
 Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, **Kanzhi Cheng**, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
+
+- `Preprint` [A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond](https://arxiv.org/abs/2403.14734) [![](https://img.shields.io/github/stars/QiushiSun/NCISurvey?style=social&label=Code+Stars)](https://github.com/QiushiSun/NCISurvey) <br>
+Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, Jianing Wang, Chengcheng Han, Renyu Zhu, Shuai Yuan, Pengcheng Yin, Qipeng Guo, Xipeng Qiu, Xiaoli Li, Fei Yuan, Lingpeng Kong, Xiang Li, Zhiyong Wu
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
