@@ -39,7 +39,19 @@ I expect to graduate in 2026. Please feel free to reach out!
 **Kanzhi Cheng**, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
 
 [**Code**](https://github.com/njucckevin/SeeClick) &nbsp;
-[![](https://img.shields.io/github/stars/xufangzhi/Genius?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
+[![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/guiactor.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://arxiv.org/abs/2506.03143) \\
+Qianhui Wu\*, **Kanzhi Cheng**\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
+
+[**Code**](https://github.com/microsoft/GUI-Actor) &nbsp;
+[![](https://img.shields.io/github/stars/microsoft/GUI-Actor?style=social&label=Code+Stars)](https://github.com/microsoft/GUI-Actor)
 
 </div>
 </div>
