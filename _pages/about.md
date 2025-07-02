@@ -140,6 +140,7 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
 - *2024.08 - 2025.01*, Tsinghua AIR, China.
 - *2023.08 - 2024.04*, Shanghai Artificial Intelligence Laboratory, China.
 
+<span class="anchor" id="-personal-interests"></span>
 # ⚽️ Personal Interests
 
 I am an amateur football player, primarily playing as an attacking midfielder. As a player, I’ve been fortunate to receive the following honors:
