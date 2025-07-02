@@ -142,6 +142,12 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
 
 # ⚽️ Personal Interests
 
+I am an amateur football player, primarily playing as an attacking midfielder.As a player, I’ve been fortunate to receive the following honors:
+- Member of the Nanjing University official football team
+- 🏆 Champion of the 2022–2023 Nanjing University Caigen Cup, awarded Final MVP
+- 🏆 Champion of the 2018–2019 Nanjing University FA Cup
+I am also a fan of Arsenal Football Club.
+
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 
   <div style="flex: 1; max-width: 20%; aspect-ratio: 2305/3902; overflow: hidden; border-radius: 10px;">
@@ -157,7 +163,3 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
   </div>
 
 </div>
-
-<p style="margin-top: 15px; text-align: justify;">
-Outside of research, I'm a passionate football fan. I enjoy both watching and playing football — especially weekend games with friends. As a lifelong supporter of <em>[your favorite team]</em>, I find the rhythm of the game and the spirit of teamwork deeply inspiring.
-</p>
