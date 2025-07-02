@@ -142,7 +142,7 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
 
 # ⚽️ Personal Interests
 
-I am an amateur football player, primarily playing as an attacking midfielder.As a player, I’ve been fortunate to receive the following honors:
+I am an amateur football player, primarily playing as an attacking midfielder. As a player, I’ve been fortunate to receive the following honors:
 - Member of the Nanjing University official football team
 - 🏆 Champion of the 2022–2023 Nanjing University Caigen Cup, awarded Final MVP
 - 🏆 Champion of the 2018–2019 Nanjing University FA Cup
