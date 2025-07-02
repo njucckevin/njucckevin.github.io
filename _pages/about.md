@@ -40,7 +40,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 
 [**Code**](https://github.com/njucckevin/SeeClick) &nbsp;
 [**Models&Data**](https://huggingface.co/cckevinn/SeeClick) &nbsp;
-[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1751633110620655851);
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1751633110620655851) &nbsp;
 [![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
 
 </div>
@@ -55,7 +55,7 @@ Qianhui Wu\*, **Kanzhi Cheng**\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqi
 [**Code**](https://github.com/microsoft/GUI-Actor) &nbsp;
 [**Project Page**](https://microsoft.github.io/GUI-Actor/) &nbsp;
 [**Models&Data**](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL) &nbsp;
-[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1930577241244860462);
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1930577241244860462) &nbsp;
 [![](https://img.shields.io/github/stars/microsoft/GUI-Actor?style=social&label=Code+Stars)](https://github.com/microsoft/GUI-Actor)
 
 </div>
@@ -70,7 +70,7 @@ Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fan
 [**Code**](https://github.com/OS-Copilot/OS-Genesis) &nbsp;
 [**Project Page**](https://qiushisun.github.io/OS-Genesis-Home/) &nbsp;
 [**Models&Data**](https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d) &nbsp;
-[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/qiushi_sun/status/1874807124515344599);
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/qiushi_sun/status/1874807124515344599) &nbsp;
 [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis)
 
 </div>
@@ -83,7 +83,7 @@ Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fan
 **Kanzhi Cheng**\*, Yantao Li\*, Fangzhi Xu, Jianbing Zhang, Hao Zhou, Yang Liu
 
 [**Code**](https://github.com/njucckevin/MM-Self-Improve) &nbsp;
-[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1859130826832957857);
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1859130826832957857) &nbsp;
 [![](https://img.shields.io/github/stars/njucckevin/MM-Self-Improve?style=social&label=Code+Stars)](https://github.com/njucckevin/MM-Self-Improve)
 
 </div>
@@ -97,7 +97,7 @@ Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fan
 
 [**Code**](https://github.com/njucckevin/CapArena) &nbsp;
 [**Project Page**](https://caparena.github.io/) &nbsp;
-[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1902547937051467956);
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1902547937051467956) &nbsp;
 [![](https://img.shields.io/github/stars/njucckevin/CapArena?style=social&label=Code+Stars)](https://github.com/njucckevin/CapArena)
 
 </div>
