@@ -20,12 +20,15 @@ redirect_from:
 I am Kanzhi Cheng (程瞰之), a PhD student (2021.9 - ) in the <a href='http://nlp.nju.edu.cn/homepage/'>NLP Group</a> at Nanjing University, advised by <a href='https://cs.nju.edu.cn/chenjiajun/'>Dr. Jiajun Chen</a> & <a href='https://cs.nju.edu.cn/zhangjb/'>Dr. Jianbing Zhang</a>. Previously, I worked as a research intern at Shanghai AI Lab and Microsoft Research. I am deeply grateful for the opportunity to work with and learn from <a href='https://lividwo.github.io/zywu.github.io/'>Dr. Zhiyong Wu</a> and <a href='https://qianhuiwu.github.io/'>Dr. Qianhui Wu</a>.
 
 Currently, I am broadly interested in multimodal intelligence, with a focus on:
-- (Multimodal) Autonomous Agents, particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>).
-- Large Vision-Language Models: building multimodal systems that can understand image/video, generate text (<a href='https://caparena.github.io/'>CapArena</a>), and perform reasoning (<a href='https://github.com/njucckevin/MM-Self-Improve'>MM-Self-Improve</a>).
+- </strong>(Multimodal) Autonomous Agents</strong></a>: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>).
+- </strong>Large Vision-Language Models</strong></a>: building multimodal systems that can understand image/video, generate text (<a href='https://caparena.github.io/'>CapArena</a>), and perform reasoning (<a href='https://github.com/njucckevin/MM-Self-Improve'>MM-Self-Improve</a>).
+
+I expect to graduate in 2026. Please feel free to reach out!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🏖️🏖️ See you at Vienna 🇦🇹! 
+- *2025.06*: &nbsp;🤖🤖 We release <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a> to advance visual grounding for GUI Agents. 
+- *2025.05*: &nbsp;🎉🎉 Four papers are accepeted by ACL 2025. 
 
 # 📝 Publications 
 
