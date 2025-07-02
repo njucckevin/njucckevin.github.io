@@ -144,16 +144,16 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 
-  <div style="flex: 1; max-width: 20%; aspect-ratio: 4/3; overflow: hidden; border-radius: 10px;">
+  <div style="flex: 1; max-width: 20%; aspect-ratio: 2305/3902; overflow: hidden; border-radius: 10px;">
     <img src="images/football2.png" alt="football1" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
-  <div style="flex: 1; max-width: 40%; aspect-ratio: 4/3; overflow: hidden; border-radius: 10px;">
-    <img src="images/football1.jp" alt="football2" style="width: 100%; height: 100%; object-fit: cover;">
+  <div style="flex: 1; max-width: 40%; aspect-ratio: 1230/1075; overflow: hidden; border-radius: 10px;">
+    <img src="images/football1.png" alt="football2" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
-  <div style="flex: 1; max-width: 40%; aspect-ratio: 4/3; overflow: hidden; border-radius: 10px;">
-    <img src="images/football3.jpg" alt="football3" style="width: 100%; height: 100%; object-fit: cover;">
+  <div style="flex: 1; max-width: 40%; aspect-ratio: 1323/1070; overflow: hidden; border-radius: 10px;">
+    <img src="images/football3.png" alt="football3" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
 </div>
