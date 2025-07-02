@@ -139,3 +139,25 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
 - *2025.04 - 2025.06*, Microsoft Research.
 - *2024.08 - 2025.01*, Tsinghua AIR, China.
 - *2023.08 - 2024.04*, Shanghai Artificial Intelligence Laboratory, China.
+
+# ⚽️ Personal Interests
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+
+  <div style="flex: 1; max-width: 20%; aspect-ratio: 4/3; overflow: hidden; border-radius: 10px;">
+    <img src="images/football2.png" alt="football1" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+
+  <div style="flex: 1; max-width: 40%; aspect-ratio: 4/3; overflow: hidden; border-radius: 10px;">
+    <img src="images/football1.jp" alt="football2" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+
+  <div style="flex: 1; max-width: 40%; aspect-ratio: 4/3; overflow: hidden; border-radius: 10px;">
+    <img src="images/football3.jpg" alt="football3" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+
+</div>
+
+<p style="margin-top: 15px; text-align: justify;">
+Outside of research, I'm a passionate football fan. I enjoy both watching and playing football — especially weekend games with friends. As a lifelong supporter of <em>[your favorite team]</em>, I find the rhythm of the game and the spirit of teamwork deeply inspiring.
+</p>
