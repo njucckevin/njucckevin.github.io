@@ -146,6 +146,7 @@ I am an amateur football player, primarily playing as an attacking midfielder.As
 - Member of the Nanjing University official football team
 - 🏆 Champion of the 2022–2023 Nanjing University Caigen Cup, awarded Final MVP
 - 🏆 Champion of the 2018–2019 Nanjing University FA Cup
+
 I am also a fan of Arsenal Football Club.
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
@@ -158,7 +159,7 @@ I am also a fan of Arsenal Football Club.
     <img src="images/football1.png" alt="football2" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
-  <div style="flex: 1; max-width: 40%; aspect-ratio: 1323/1070; overflow: hidden; border-radius: 10px;">
+  <div style="flex: 1; max-width: 40%; aspect-ratio: 1230/1075; overflow: hidden; border-radius: 10px;">
     <img src="images/football3.png" alt="football3" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
