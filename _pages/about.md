@@ -39,6 +39,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 **Kanzhi Cheng**, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
 
 [**Code**](https://github.com/njucckevin/SeeClick) &nbsp;
+[**Models&Data**](https://huggingface.co/cckevinn/SeeClick) &nbsp;
 [![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
 
 </div>
@@ -51,7 +52,23 @@ I expect to graduate in 2026. Please feel free to reach out!
 Qianhui Wu\*, **Kanzhi Cheng**\*, Rui Yang\*, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
 
 [**Code**](https://github.com/microsoft/GUI-Actor) &nbsp;
+[**Project Page**](https://microsoft.github.io/GUI-Actor/) &nbsp;
+[**Models&Data**](https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL) &nbsp;
 [![](https://img.shields.io/github/stars/microsoft/GUI-Actor?style=social&label=Code+Stars)](https://github.com/microsoft/GUI-Actor)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/osgenesis.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) \\
+Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
+
+[**Code**](https://github.com/OS-Copilot/OS-Genesis) &nbsp;
+[**Project Page**](https://qiushisun.github.io/OS-Genesis-Home/) &nbsp;
+[**Models&Data**](https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d) &nbsp;
+[![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis)
 
 </div>
 </div>
