@@ -103,8 +103,15 @@ Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fan
 </div>
 </div>
 
+- `ACMMM 2023` [Beyond Generic: Enhancing Image Captioning with Real-World Knowledge using Vision-Language Pre-Training Model](https://arxiv.org/abs/2308.01126), **Kanzhi Cheng**, Wenpo Song, Zheng Ma, Wenhao Zhu, Zixuan Zhu, Jianbing Zhang
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `NLPCC 2022` [ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora](https://arxiv.org/abs/2308.01143), **Kanzhi Cheng**, Zheng Ma, Shi Zong, Jianbing Zhang, Xinyu Dai, Jiajun Chen
+
+- `WCUA@ICML 2025` [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <br>
+Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, **Kanzhi Cheng**, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
+
+- `ICLR 2025 (Spotlight)` [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas) <br>
+Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, **Kanzhi Cheng**, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
