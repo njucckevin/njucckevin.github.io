@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kanzhi Cheng"
-description              : "Ph.D. Student in NLP"
+description              : ""
 repository               : "njucckevin/njucckevin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kanzhi Cheng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University"
+  bio              : "Ph.D. Student in NLP, Nanjing Univeristy"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "njucckevin"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/njucckevin"
   vine             :
   weibo            :
   xing             :
