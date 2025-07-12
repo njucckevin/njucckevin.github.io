@@ -21,7 +21,7 @@ I am Kanzhi Cheng (程瞰之), a PhD student (2021.9 - ) in the <a href='http://
 
 Currently, I am broadly interested in multimodal intelligence, with a focus on:
 - **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>).
-- **Large Vision-Language Models**: building multimodal systems that can understand image/video, generate text (<a href='https://caparena.github.io/'>CapArena</a>), and perform reasoning (<a href='https://github.com/njucckevin/MM-Self-Improve'>MM-Self-Improve</a>).
+- **Large Vision-Language Models**: building multimodal systems that can understand image/video, generate text (<a href='https://dl.acm.org/doi/10.1145/3581783.3611987'>Beyond Generic</a>, <a href='https://caparena.github.io/'>CapArena</a>), and perform reasoning (<a href='https://github.com/njucckevin/MM-Self-Improve'>MM-Self-Improve</a>).
 
 I expect to graduate in 2026. Please feel free to reach out!
 
