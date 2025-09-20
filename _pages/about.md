@@ -46,7 +46,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/guiactor.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Poster)</div><img src='images/guiactor.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://arxiv.org/abs/2506.03143) \\
