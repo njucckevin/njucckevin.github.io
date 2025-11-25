@@ -26,6 +26,8 @@ Currently, I am broadly interested in multimodal intelligence, with a focus on:
 I expect to graduate in 2026. Please feel free to reach out!
 
 # 🔥 News
+- *2025.11*: &nbsp;📚📚 Started my visit to NTU, Singapore 🇸🇬.
+- *2025.09*: &nbsp;🎉🎉 <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a> is accepted by NeurIPS 2025.
 - *2025.07*: &nbsp;🏖️🏖️ See you at Vienna 🇦🇹! 
 - *2025.06*: &nbsp;🤖🤖 We release <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a> to advance visual grounding for GUI Agents. 
 - *2025.05*: &nbsp;🎉🎉 Four papers are accepeted by ACL 2025. 
