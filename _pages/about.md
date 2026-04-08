@@ -1,4 +1,4 @@
----
+<img width="432" height="13" alt="image" src="https://github.com/user-attachments/assets/7e93a511-b531-4c03-b724-63a51e61604f" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -36,6 +36,17 @@ I expect to graduate in 2026. Please feel free to reach out!
 - *2025.05*: &nbsp;🎉🎉 Four papers are accepeted by ACL 2025. 
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Released Soon</div><img src='images/seeclick.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://arxiv.org/abs/2604.xxxxx) \\
+**Kanzhi Cheng**, Zehao Li, Zheng Ma, Nuo Chen, Jialin Cao, Qiushi Sun, Zichen Ding, Fangzhi Xu, Hang Yan, Jiajun Chen, Luu Anh Tuan, Jianbing Zhang, Lewei Lu, Dahua Lin
+
+[**Code**](https://github.com/njucckevin/OpenMobile) &nbsp;
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 (Main)</div><img src='images/seeclick.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -143,6 +154,7 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
 - *2019.10* Guanghua Scholarship (1%), Nanjing University
 
 # 📖 Educations
+- *2025.11 - 2026.05*, visiting Ph.D. Student at Nanyang Technological University, Singapore.
 - *2021.09 - 2026 (now)*, Ph.D. Student at the Department of Computer Science and Technology, Nanjing University.
 - *2017.09 - 2021.06*, B.E. at the School of Management and Engineering, Nanjing University. 
 
