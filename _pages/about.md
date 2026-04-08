@@ -1,4 +1,4 @@
----
+<img width="432" height="25" alt="image" src="https://github.com/user-attachments/assets/2144da68-a4ff-4c7c-a642-57fae0b111c6" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -20,13 +20,16 @@ redirect_from:
 I am Kanzhi Cheng (程瞰之), a PhD student (2021.9 - ) in the <a href='http://nlp.nju.edu.cn/homepage/'>NLP Group</a> at Nanjing University, advised by <a href='https://cs.nju.edu.cn/chenjiajun/'>Dr. Jiajun Chen</a> & <a href='https://cs.nju.edu.cn/zhangjb/'>Dr. Jianbing Zhang</a>. Previously, I worked as a research intern at Shanghai AI Lab, Tsinghua AIR, and Microsoft Research. I am deeply grateful for the opportunity to work with and learn from <a href='https://lividwo.github.io/zywu.github.io/'>Dr. Zhiyong Wu</a> , <a href='https://zhouh.github.io/'>Dr. Hao Zhou</a>, and <a href='https://qianhuiwu.github.io/'>Dr. Qianhui Wu</a>.
 
 Currently, I am broadly interested in multimodal intelligence, with a focus on:
-- **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>).
+- **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>, <a href='https://github.com/njucckevin/OpenMobile/'>OpenMobile</a>).
 - **Large Vision-Language Models**: building multimodal systems that can understand image/video, generate text (<a href='https://dl.acm.org/doi/10.1145/3581783.3611987'>Beyond Generic</a>, <a href='https://caparena.github.io/'>CapArena</a>), and perform reasoning (<a href='https://github.com/njucckevin/MM-Self-Improve'>MM-Self-Improve</a>).
 
 I expect to graduate in 2026. Please feel free to reach out!
 
 # 🔥 News
-- *2025.11*: &nbsp;📚📚 Started my visit to NTU, Singapore 🇸🇬.
+- *2026.04*: &nbsp;🤖🤖 We will release OpenMobile soon. Stay tune!
+- *2026.04*: &nbsp;🎉🎉 Two papers are accepeted by ACL 2026.
+- *2026.01*: &nbsp;🎉🎉 One papers are accepeted by ICLR 2026.
+- *2025.11*: &nbsp;📚📚 Started my visit to NTU, Singapore 🇸🇬. Advised by <a href='https://tuanluu.github.io/'>Dr. Luu Anh Tuan</a>.
 - *2025.09*: &nbsp;🎉🎉 <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a> is accepted by NeurIPS 2025.
 - *2025.07*: &nbsp;🏖️🏖️ See you at Vienna 🇦🇹! 
 - *2025.06*: &nbsp;🤖🤖 We release <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a> to advance visual grounding for GUI Agents. 
@@ -111,7 +114,13 @@ Qiushi Sun\*, **Kanzhi Cheng**\*, Zichen Ding\*, Chuanyang Jin\*, Yian Wang, Fan
 - `NLPCC 2022` [ADS-Cap: A Framework for Accurate and Diverse Stylized Captioning with Unpaired Stylistic Corpora](https://arxiv.org/abs/2308.01143) <br>
 **Kanzhi Cheng**, Zheng Ma, Shi Zong, Jianbing Zhang, Xinyu Dai, Jiajun Chen
 
-- `ICLR 2025` [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <br>
+- `ACL 2026` [OS-Sentinel:Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Sentinel?style=social&label=Code+Stars)](https://qiushisun.github.io/OS-Sentinel-Home/) <br>
+Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, Fangzhi Xu, Zhangyue Yin, **Kanzhi Cheng**, Zehao Li, Zichen Ding, Qi Liu, Zhiyong Wu, Zhuosheng Zhang, Ben Kao, Lingpeng Kong
+
+- `ACL 2026` [OS-SYMPHONY: A Holistic Framework for Robust and Generalist Computer-Using Agent](https://arxiv.org/abs/2601.07779) [![](https://img.shields.io/github/stars/OS-Copilot/OS-Symphony?style=social&label=Code+Stars)](https://os-copilot.github.io/OS-Symphony/) <br>
+Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, **Kanzhi Cheng**, Qingyun Li, Yian Wang, Yu Qiao, Zun Wang, Zichen Ding
+
+- `ICLR 2026` [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) [![](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social&label=Code+Stars)](https://github.com/OS-Copilot/ScienceBoard) <br>
 Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, **Kanzhi Cheng**, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, Zhiyong Wu
 
 - `ACL 2025 (Main)` [Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning](https://arxiv.org/abs/2504.08672) [![](https://img.shields.io/github/stars/xufangzhi/Genius?style=social&label=Code+Stars)](https://github.com/xufangzhi/Genius) <br>
