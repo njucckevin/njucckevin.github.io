@@ -37,7 +37,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Released Soon</div><img src='images/seeclick.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Released Soon</div><img src='images/openmobile.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://arxiv.org/abs/2604.xxxxx) \\
