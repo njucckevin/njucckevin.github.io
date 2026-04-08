@@ -1,4 +1,4 @@
-<img width="432" height="25" alt="image" src="https://github.com/user-attachments/assets/2144da68-a4ff-4c7c-a642-57fae0b111c6" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -28,7 +28,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 # 🔥 News
 - *2026.04*: &nbsp;🤖🤖 We will release OpenMobile soon. Stay tune!
 - *2026.04*: &nbsp;🎉🎉 Two papers are accepeted by ACL 2026.
-- *2026.01*: &nbsp;🎉🎉 One papers are accepeted by ICLR 2026.
+- *2026.01*: &nbsp;🎉🎉 One papers is accepeted by ICLR 2026.
 - *2025.11*: &nbsp;📚📚 Started my visit to NTU, Singapore 🇸🇬. Advised by <a href='https://tuanluu.github.io/'>Dr. Luu Anh Tuan</a>.
 - *2025.09*: &nbsp;🎉🎉 <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a> is accepted by NeurIPS 2025.
 - *2025.07*: &nbsp;🏖️🏖️ See you at Vienna 🇦🇹! 
