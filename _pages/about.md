@@ -20,13 +20,13 @@ redirect_from:
 I am Kanzhi Cheng (程瞰之), a PhD student (2021.9 - ) in the <a href='http://nlp.nju.edu.cn/homepage/'>NLP Group</a> at Nanjing University, advised by <a href='https://cs.nju.edu.cn/chenjiajun/'>Dr. Jiajun Chen</a> & <a href='https://cs.nju.edu.cn/zhangjb/'>Dr. Jianbing Zhang</a>. Previously, I worked as a research intern at Shanghai AI Lab, Tsinghua AIR, and Microsoft Research. I am deeply grateful for the opportunity to work with and learn from <a href='https://lividwo.github.io/zywu.github.io/'>Dr. Zhiyong Wu</a> , <a href='https://zhouh.github.io/'>Dr. Hao Zhou</a>, and <a href='https://qianhuiwu.github.io/'>Dr. Qianhui Wu</a>.
 
 Currently, I am broadly interested in multimodal intelligence, with a focus on:
-- **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>, <a href='https://github.com/njucckevin/OpenMobile/'>OpenMobile</a>).
+- **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>, <a href='https://njucckevin.github.io/openmobile/'>OpenMobile</a>).
 - **Large Vision-Language Models**: building multimodal systems that can understand image/video, generate text (<a href='https://dl.acm.org/doi/10.1145/3581783.3611987'>Beyond Generic</a>, <a href='https://caparena.github.io/'>CapArena</a>), and perform reasoning (<a href='https://github.com/njucckevin/MM-Self-Improve'>MM-Self-Improve</a>).
 
 I expect to graduate in 2026. Please feel free to reach out!
 
 # 🔥 News
-- *2026.04*: &nbsp;🤖🤖 We will release OpenMobile soon. Stay tune!
+- *2026.04*: &nbsp;🤖🤖 We release <a href='https://njucckevin.github.io/openmobile/'>OpenMobile</a> to facilitate open mobile agent research.
 - *2026.04*: &nbsp;🎉🎉 Two papers are accepeted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 One papers is accepeted by ICLR 2026.
 - *2025.11*: &nbsp;📚📚 Started my visit to NTU, Singapore 🇸🇬. Advised by <a href='https://tuanluu.github.io/'>Dr. Luu Anh Tuan</a>.
@@ -37,13 +37,17 @@ I expect to graduate in 2026. Please feel free to reach out!
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Released Soon</div><img src='images/openmobile.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/openmobile.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://arxiv.org/abs/2604.xxxxx) \\
 **Kanzhi Cheng**, Zehao Li, Zheng Ma, Nuo Chen, Jialin Cao, Qiushi Sun, Zichen Ding, Fangzhi Xu, Hang Yan, Jiajun Chen, Luu Anh Tuan, Jianbing Zhang, Lewei Lu, Dahua Lin
 
-[**Code**](https://github.com/njucckevin/OpenMobile) &nbsp;
+[**Code**](https://github.com/njucckevin/OpenMobile-Code) &nbsp;
+[**Project Page**](https://njucckevin.github.io/openmobile/) &nbsp;
+[**Models**](https://huggingface.co/cckevinn/OpenMobile-8B) &nbsp;
+[**Data**](https://huggingface.co/datasets/cckevinn/OpenMobile-Data) &nbsp;
+
 
 </div>
 </div>
