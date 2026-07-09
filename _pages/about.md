@@ -37,7 +37,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/openmobile.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/openmobile.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://arxiv.org/abs/2604.xxxxx) \\
@@ -47,6 +47,8 @@ I expect to graduate in 2026. Please feel free to reach out!
 [**Project Page**](https://njucckevin.github.io/openmobile/) &nbsp;
 [**Models**](https://huggingface.co/cckevinn/OpenMobile-8B) &nbsp;
 [**Data**](https://huggingface.co/datasets/cckevinn/OpenMobile-Data) &nbsp;
+[<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/2048748355556462805) &nbsp;
+[![](https://img.shields.io/github/stars/njucckevin/OpenMobile-Code?style=social&label=Code+Stars)](https://github.com/njucckevin/OpenMobile-Code)
 
 
 </div>
