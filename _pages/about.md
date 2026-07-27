@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Kanzhi Cheng (程瞰之), a PhD student (2021.9 - ) in the <a href='http://nlp.nju.edu.cn/homepage/'>NLP Group</a> at Nanjing University, advised by <a href='https://cs.nju.edu.cn/chenjiajun/'>Dr. Jiajun Chen</a> & <a href='https://cs.nju.edu.cn/zhangjb/'>Dr. Jianbing Zhang</a>. Previously, I worked as a research intern at Shanghai AI Lab, Tsinghua AIR, and Microsoft Research. I am deeply grateful for the opportunity to work with and learn from Dr. Shi Zong, <a href='https://lividwo.github.io/zywu.github.io/'>Dr. Zhiyong Wu</a> , <a href='https://zhouh.github.io/'>Dr. Hao Zhou</a>, and <a href='https://qianhuiwu.github.io/'>Dr. Qianhui Wu</a>.
+I am Kanzhi Cheng (程瞰之), a PhD student (2021.9 - ) in the <a href='http://nlp.nju.edu.cn/homepage/'>NLP Group</a> at Nanjing University, advised by <a href='https://cs.nju.edu.cn/chenjiajun/'>Dr. Jiajun Chen</a> & <a href='https://cs.nju.edu.cn/zhangjb/'>Dr. Jianbing Zhang</a>. Previously, I worked as a research intern at Shanghai AI Lab, Tsinghua AIR, Microsoft Research, and SenseTime Research. I am deeply grateful for the opportunity to work with and learn from Dr. Shi Zong, <a href='https://lividwo.github.io/zywu.github.io/'>Dr. Zhiyong Wu</a> , <a href='https://zhouh.github.io/'>Dr. Hao Zhou</a>, <a href='https://qianhuiwu.github.io/'>Dr. Qianhui Wu</a>, and <a href='https://scholar.google.com/citations?user=8WfKu9UAAAAJ&hl=en'>Dr. Zheng Ma</a>.
 
 Currently, I am broadly interested in multimodal intelligence, with a focus on:
 - **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>, <a href='https://njucckevin.github.io/openmobile/'>OpenMobile</a>).
@@ -165,9 +165,10 @@ Qiushi Sun, Zhirui Chen, Fangzhi Xu, Chang Ma, **Kanzhi Cheng**, Zhangyue Yin, J
 - *2017.09 - 2021.06*, B.E. at the School of Management and Engineering, Nanjing University. 
 
 # 💻 Internships
+- *2025.11 - 2026.07*, SenseTime Research.
 - *2025.04 - 2025.06*, Microsoft Research.
-- *2024.08 - 2025.01*, Tsinghua AIR, China.
-- *2023.08 - 2024.04*, Shanghai Artificial Intelligence Laboratory, China.
+- *2024.08 - 2025.01*, Tsinghua AIR.
+- *2023.08 - 2024.04*, Shanghai Artificial Intelligence Laboratory.
 
 <span class="anchor" id="-personal-interests"></span>
 # ⚽️ Personal Interests
