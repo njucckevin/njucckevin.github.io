@@ -76,7 +76,12 @@ I expect to graduate in 2026. Please feel free to reach out!
 Qiushi Sun\*, **Kanzhi Cheng**\*, Yian Wang\*, Bowen Yang\*, Hang Yan\*, Liheng Chen\*, Fangzhi Xu, Zichen Ding, Nuo Chen, Jialin Cao, Xingdong Gong, Zehao Li, Kaiming Jin, Xinfeng Yuan, Zhoumianze Liu, Jingyang Gong, Zhangyue Yin, Jiahui Gao, Zhiyong Wu, Tianbao Xie, Jianbing Zhang, Ben Kao
 
 [**Code**](https://github.com/OS-Copilot/OSReward) &nbsp;
+[**Project Page**](https://os-copilot.github.io/OSReward-Home/) &nbsp;
 [**Benchmark**](https://huggingface.co/datasets/OS-Copilot/OSReward) &nbsp;
+[**Data**](https://huggingface.co/datasets/OS-Copilot/OS-Shepherd-100K) &nbsp;
+[**Models**](https://huggingface.co/collections/OS-Copilot/osreward-and-os-shepherd) &nbsp;
+[![](https://img.shields.io/github/stars/OS-Copilot/OSReward?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OSReward)
+
 
 </div>
 </div>
