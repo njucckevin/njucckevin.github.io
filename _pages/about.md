@@ -26,6 +26,7 @@ Currently, I am broadly interested in multimodal intelligence, with a focus on:
 I expect to graduate in 2026. Please feel free to reach out!
 
 # 🔥 News
+- *2026.08*: &nbsp;🤖🤖 We release <a href='https://os-copilot.github.io/OSReward-Home/'>OSReward</a> for evaluating and analyzing CUA reward models.
 - *2026.04*: &nbsp;🤖🤖 We release <a href='https://njucckevin.github.io/openmobile/'>OpenMobile</a> to facilitate open mobile agent research.
 - *2026.04*: &nbsp;🎉🎉 Two papers are accepeted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 One papers is accepeted by ICLR 2026.
@@ -40,7 +41,7 @@ I expect to graduate in 2026. Please feel free to reach out!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/openmobile.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://arxiv.org/abs/2604.xxxxx) \\
+[OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://arxiv.org/abs/2604.15093) \\
 **Kanzhi Cheng**, Zehao Li, Zheng Ma, Nuo Chen, Jialin Cao, Qiushi Sun, Zichen Ding, Fangzhi Xu, Hang Yan, Jiajun Chen, Luu Anh Tuan, Jianbing Zhang, Lewei Lu, Dahua Lin
 
 [**Code**](https://github.com/njucckevin/OpenMobile-Code) &nbsp;
@@ -64,6 +65,18 @@ I expect to graduate in 2026. Please feel free to reach out!
 [**Models&Data**](https://huggingface.co/cckevinn/SeeClick) &nbsp;
 [<img src='./images/Logo_of_Twitter.svg.png' style='width: 1.35em;'>](https://x.com/njucckevin/status/1751633110620655851) &nbsp;
 [![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/osreward.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://arxiv.org/abs/2607.28609) \\
+Qiushi Sun\*, **Kanzhi Cheng**\*, Yian Wang\*, Bowen Yang\*, Hang Yan\*, Liheng Chen\*, Fangzhi Xu, Zichen Ding, Nuo Chen, Jialin Cao, Xingdong Gong, Zehao Li, Kaiming Jin, Xinfeng Yuan, Zhoumianze Liu, Jingyang Gong, Zhangyue Yin, Jiahui Gao, Zhiyong Wu, Tianbao Xie, Jianbing Zhang, Ben Kao
+
+[**Code**](https://github.com/OS-Copilot/OSReward) &nbsp;
+[**Benchmark**](https://huggingface.co/datasets/OS-Copilot/OSReward) &nbsp;
 
 </div>
 </div>
