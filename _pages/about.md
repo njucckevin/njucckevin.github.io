@@ -20,12 +20,13 @@ redirect_from:
 I am Kanzhi Cheng (程瞰之), a PhD student (2021.9 - ) in the <a href='http://nlp.nju.edu.cn/homepage/'>NLP Group</a> at Nanjing University, advised by <a href='https://cs.nju.edu.cn/chenjiajun/'>Dr. Jiajun Chen</a> & <a href='https://cs.nju.edu.cn/zhangjb/'>Dr. Jianbing Zhang</a>. Previously, I worked as a research intern at Shanghai AI Lab, Tsinghua AIR, Microsoft Research, and SenseTime Research. I am deeply grateful for the opportunity to work with and learn from Dr. Shi Zong, <a href='https://lividwo.github.io/zywu.github.io/'>Dr. Zhiyong Wu</a> , <a href='https://zhouh.github.io/'>Dr. Hao Zhou</a>, <a href='https://qianhuiwu.github.io/'>Dr. Qianhui Wu</a>, and <a href='https://scholar.google.com/citations?user=8WfKu9UAAAAJ&hl=en'>Dr. Zheng Ma</a>.
 
 Currently, I am broadly interested in multimodal intelligence, with a focus on:
-- **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>, <a href='https://njucckevin.github.io/openmobile/'>OpenMobile</a>).
+- **(Multimodal) Autonomous Agents**: particularly GUI agents capable of acting in the digital world to automate complex tasks (<a href='https://github.com/njucckevin/SeeClick/'>SeeClick</a>, <a href='https://osatlas.github.io/'>OS-Atlas</a>, <a href='https://qiushisun.github.io/OS-Genesis-Home/'>OS-Genesis</a>, <a href='https://microsoft.github.io/GUI-Actor/'>GUI-Actor</a>, <a href='https://njucckevin.github.io/openmobile/'>OpenMobile</a>, <a href='https://os-copilot.github.io/OpenMobile2-Home/'>OpenMobile-2</a>).
 - **Large Vision-Language Models**: building multimodal systems that can understand image/video, generate text (<a href='https://dl.acm.org/doi/10.1145/3581783.3611987'>Beyond Generic</a>, <a href='https://caparena.github.io/'>CapArena</a>), and perform reasoning (<a href='https://github.com/njucckevin/MM-Self-Improve'>MM-Self-Improve</a>).
 
 I expect to graduate in 2026. Please feel free to reach out!
 
 # 🔥 News
+- *2026.10*: &nbsp;🤖🤖 We release <a href='https://os-copilot.github.io/OpenMobile2-Home/'>OpenMobile-2</a> with scalable environments and app-native tools.
 - *2026.08*: &nbsp;🤖🤖 We release <a href='https://os-copilot.github.io/OSReward-Home/'>OSReward</a> for evaluating and analyzing CUA reward models.
 - *2026.04*: &nbsp;🤖🤖 We release <a href='https://njucckevin.github.io/openmobile/'>OpenMobile</a> to facilitate open mobile agent research.
 - *2026.04*: &nbsp;🎉🎉 Two papers are accepeted by ACL 2026.
@@ -37,6 +38,25 @@ I expect to graduate in 2026. Please feel free to reach out!
 - *2025.05*: &nbsp;🎉🎉 Four papers are accepeted by ACL 2025. 
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/openmobile2.png' alt="OpenMobile-2 application coverage and GUI-only versus hybrid app-native tool interfaces" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools](https://arxiv.org/abs/2610.14157) \\
+Chenyang Yan\*, Yingying Zhang\*, **Kanzhi Cheng**\*†, Qiushi Sun\*, Zhengyuan Pan\*, Zheng Ma\*†, Hang Yan, Yian Wang, Nuo Chen, Jialin Cao, Xingdong Gong, Wenpo Song, Han Chen, Zichen Ding, Fangzhi Xu, Shujian Huang, Xinyu Dai, Yichen Liu, Tiankuo Yao, Bo Wang, Ben Kao, Jianbing Zhang, Lewei Lu, Dahua Lin
+
+<small>\* Equal contribution. † Project leads.</small>
+
+[**Code**](https://github.com/OpenMobile2/OpenMobile2-Code) &nbsp;
+[**Environment**](https://github.com/OpenMobile2/MobileGym-plusplus) &nbsp;
+[**Project Page**](https://os-copilot.github.io/OpenMobile2-Home/) &nbsp;
+[**Models**](https://huggingface.co/OpenMobile-2) &nbsp;
+[**Data**](https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data) &nbsp;
+[<img src='./images/Logo_of_Twitter.svg.png' alt='X announcement' style='width: 1.35em;'>](https://x.com/njucckevin/status/2112107060708123001) &nbsp;
+[![](https://img.shields.io/github/stars/OpenMobile2/OpenMobile2-Code?style=social&label=Code+Stars)](https://github.com/OpenMobile2/OpenMobile2-Code)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/openmobile.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
